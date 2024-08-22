@@ -7,7 +7,7 @@ Estoy empezando mi tercer año de la carrera, y aunque esta carrera no fue mi pr
 opcion cada cuatrimestre tengo mas ganas de poder trabajar de esto.
 ~~~
 
-## Cosas acerca de mi:
+## Cosas sobre mi:
 - Me gusta jugar a la compu.
 - Me gusta mucho pasar el tiempo con mi familia y amigos.
 - Me atrae la idea de trabajar en equipo.
